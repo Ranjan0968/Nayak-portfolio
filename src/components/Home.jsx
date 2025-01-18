@@ -9,12 +9,9 @@ const Home = () => {
   useEffect(() => {
     const options = {
       strings: [
-
-        
         "Welcome to my profile",
         "My Name is Soumyaranjan Nayak",
-        "I'm full stack developer",
-        "Androide Developer (React Native)",
+        "I'm full stack developer with React js,Python and mySql"
       ],
       typeSpeed: 50,
       backSpeed: 50,
