@@ -9,8 +9,10 @@ const Home = () => {
   useEffect(() => {
     const options = {
       strings: [
+
+        
         "Welcome to my profile",
-        "My Name is John Doe",
+        "My Name is Soumyaranjan Nayak",
         "I'm full stack developer",
         "Androide Developer (React Native)",
       ],
